@@ -1,1 +1,4 @@
-# Diabetes_prediction_model
+# # diabetes_prediction_model using Logistic Regression and Random Forest Classifier
+Diabetes is a chronic metabolic disorder characterized by elevated blood sugar levels, affecting millions of people worldwide. Early detection of diabetes is crucial for effective management and prevention of complications. This project aims to develop a Diabetes Prediction Model using two different algorithms:
+ Logistic Regression and Random Forest Search methods of interacting with computers involve input devices such as keyboards and mice. However, these methods may not be intuitive or convenient in certain situations. The project addresses the need for a more natural and hands-free interaction with computers, particularly in scenarios where users may have limited mobility or prefer gesture-based controls.
+Leveraging machine learning algorithms such as Logistic Regression and Random Forest, this project seeks to enhance our ability to predict the onset of diabetes based on a diverse set of features encompassing demographics, lifestyle, and medical history.
